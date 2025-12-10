@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
   <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  
 </p>
 
 ---
