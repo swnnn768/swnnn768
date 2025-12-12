@@ -6,7 +6,7 @@
 -  Objectif : devenir polyvalent en front & backend
 
 
-## Langages que je connais (et que je découvre)
+## Langages 
 
  🌐 Front-end
 
