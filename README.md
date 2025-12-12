@@ -1,9 +1,9 @@
 <h2 align="center">
 
 ## À propos de moi ##
--  Étudiant en développement web
+ Étudiant en développement web
 
--  Objectif : devenir polyvalent en front & backend
+  Objectif : devenir polyvalent en front & backend
 
 
 ## Langages 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Stack d'outils
+##  Stack d'outils
 
 
 <p align="left">
